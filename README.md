@@ -1,0 +1,2 @@
+# EMPIRECRAFT
+EMPIRECRAFT plugin project
